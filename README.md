@@ -1,24 +1,8 @@
-# README
+## FoodLog
+Video Tutorial by [@Web-crunch on Traversy Media YouTube Channel](https://youtu.be/B3Fbujmgo60)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Libraries & Frameworks used
+- [Ruby On Rails](https://github.com/rails/rails)
+- [Bulma](https://github.com/jgthms/bulma)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Forged by [Marcelo](https://github.com/MarceloDaLuz) 👾**
